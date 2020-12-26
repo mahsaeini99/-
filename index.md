@@ -1,13 +1,13 @@
 
-### Anahita Taheri
+### mahsa eini
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
++ name: mahsa
++ last name : eini
++ Date of birth :1377/may/31
 + I am a trader and IT engineering student
 + location : Tehran , I.R.Iran
 
@@ -30,20 +30,20 @@ _ payam Noor University of North
 
 ---
 + Persian
-+ English
++ turkey
 
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
++ cycling
++ Studing  books
 + travel 
 + playing volleyball
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ i do not work
 
 
 
